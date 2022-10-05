@@ -39,8 +39,7 @@ Common suffixes are DAL, Repository, etc., ex. ProductRepository.
 常見的後綴有 DAL, Repository 等等，例如 ProductRepository。  
 
 ## What is Swagger & Why use Swagger?
-https://swagger.io/
-Swagger is a suite of tools for API developers from SmartBear Software and a former specification upon which the OpenAPI Specification is based.  
+[Swagger](https://swagger.io/) is a suite of tools for API developers from SmartBear Software and a former specification upon which the OpenAPI Specification is based.  
  
 Swagger 是一間名為SmartBear Software 的公司，開發出的REST API 的工具，可以幫助設計、構建、記錄和使用REST API。  
 後來貢獻給OpenAPI Initiative，並公開讓所有人都能夠使用。
